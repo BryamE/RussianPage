@@ -143,7 +143,7 @@ body{
     font-weight: 500;
 }
 
-.mid{
+.footer div, i{
     background-color: transparent;
 }
 .mid p, .mid h2{
